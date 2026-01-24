@@ -21,7 +21,7 @@
     > View upcoming features here:
       https://mortuus.xyz
 
-![menu-preview](https://i.imgur.com/XXXXXXX.png)
+![menu-preview](https://imgur.com/a/IcbKXDb)
 
 |
                      System Requirements
