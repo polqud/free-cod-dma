@@ -29,7 +29,7 @@
 
     • DMA Card required.
     • Ensure compatible firmware is installed before use.
-    • Ensure COD & BO7 are installed via XBOX APP.
+    • Ensure COD & BO7 are installed via STEAM.
 
 
 |
