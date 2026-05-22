@@ -1,4 +1,5 @@
 |           Mortuus DMA  
+⚠ JOIN THE DISCORD FOR THE LATEST FREE VERSION. ⚠
   [website](https://mortuus.xyz)   /  [discord](https://discord.gg/mpt34nRVey) |
 ================================================================
 
